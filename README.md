@@ -13,6 +13,13 @@ gcc main.c -o main
 .\main
 ```
 
+**Windows: PowerShell**
+
+```ps
+gcc main.c -o main
+./main
+```
+
 **Unix / Linux Shell**
 
 ```sh
